@@ -20,4 +20,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: gilbertb/my-portfolio:v3
+          tags: gilbertb/my-portfolio:v4
